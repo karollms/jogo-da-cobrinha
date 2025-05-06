@@ -1,0 +1,20 @@
+body{
+    height: 66vh;           
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: darkslategrey;
+
+}
+
+
+
+ h1 {  
+    color: teal;
+    font-family: sans-serif;
+    font-style: italic;
+    font-size: 50px
+    ;
+ }
