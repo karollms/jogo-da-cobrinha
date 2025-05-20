@@ -5,16 +5,31 @@ body{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-color: darkslategrey;
-
+    background-color: rgb(111, 58, 160);
+    background-image: url(https://i.pinimg.com/736x/91/63/70/91637027e29594076d6b775763e996bf.jpg);
 }
 
 
 
  h1 {  
-    color: teal;
-    font-family: sans-serif;
+    color: rgb(156, 117, 219);
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-style: italic;
-    font-size: 50px
-    ;
+    font-size: 50px;
+
+
+ }
+
+ button{
+    height: 50px;
+    width: 300px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(164, 26, 228);
+    color: beige;
+    font-size: 20px;
+ }
+ img{
+    height: 290px;
+    display: flex;
+    justify-content: center;
  }
